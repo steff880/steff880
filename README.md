@@ -1,18 +1,18 @@
-![Full Stack Web Developer]([https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1684972800&v=beta&t=kqMttOQjz7a9_-sJX81QOo0QkcvkH46SzHCkl9qW2-o](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1693440000&v=beta&t=8b3AJXlJKMaYUE7kOOQM5exCxHriHSpMxTFQVehSXHo))
+![Full Stack Web Developer](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1684972800&v=beta&t=kqMttOQjz7a9_-sJX81QOo0QkcvkH46SzHCkl9qW2-o](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1693440000&v=beta&t=8b3AJXlJKMaYUE7kOOQM5exCxHriHSpMxTFQVehSXHo))
 
 # Hi there 👋, I'm Stefan Yordanov
 ### Junior Full Stack Web Developer
 
 
-I am a creative and passionate junior web developer with over 1-year of experience, and the ability to learn and obtain new skills quickly.
-I have also obtained a Diploma in Software Development and continued to further develop my skills.
-I have built over 20 projects for the web, contributed to over 5 team projects, and gained experience using Agile.
-I am passionate about Front End Development and UI/UX design and enjoy learning new things.
+I am a dedicated and innovative junior developer with over a year of practical experience in web development. I possess strong proficiency in a range of technologies including HTML, CSS, JavaScript, Node.js, React, SASS, Express, Python, Flask, Django, MongoDB, MySQL, PostgreSQL, Materialize, Bootstrap, NPM, and Git.
+Throughout my journey, I have successfully completed more than 20 web projects independently and contributed to the success of over 5 team projects. My passion for technology and web development drives me to constantly expand my knowledge and stay up to date with the latest advancements in the field.
+I am now seeking an entry-level position where I can apply my coding and problem-solving skills, along with my ability to quickly grasp new concepts. I am committed to continuous learning and strive to unleash my full potential in a dynamic work environment.
+I am well-versed in Agile methodologies and have experience working within technology teams.
 
 
 ## Skills and Experience
 * ⚛ React
-* 💻 HTML, CSS, JS, Bootstrap, SASS, Node.js, Pyhton, Flask, Django, Git, GitHub
+* 💻 HTML, CSS, JS, Bootstrap, SASS, Node.js, Python, Flask, Django, Git, GitHub
 
 
 
