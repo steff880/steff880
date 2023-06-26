@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1684972800&v=beta&t=kqMttOQjz7a9_-sJX81QOo0QkcvkH46SzHCkl9qW2-o](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1693440000&v=beta&t=8b3AJXlJKMaYUE7kOOQM5exCxHriHSpMxTFQVehSXHo))
+![Full Stack Web Developer](https://media.licdn.com/dms/image/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/0/1679492150976?e=1693440000&v=beta&t=8b3AJXlJKMaYUE7kOOQM5exCxHriHSpMxTFQVehSXHo)
 
 # Hi there 👋, I'm Stefan Yordanov
 ### Junior Full Stack Web Developer
