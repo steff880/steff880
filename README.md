@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://drive.google.com/file/d/1XoEuO-xk9QcI3VgchezHZWlWNYolTYVS/view?usp=sharing)
+![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFRfLY4pYgs3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679492155944?e=1730937600&v=beta&t=rr1LbbCMBhAv8HldfCVdrlrIurLBBxqeCKr-jU3PF_c)
 
 # Hi there 👋, I'm Stefan Yordanov
 ### Junior Full Stack Web Developer
