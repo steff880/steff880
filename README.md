@@ -5,7 +5,7 @@
 
 
 I am a dedicated and innovative junior developer with over a year of practical experience in web development. I possess strong proficiency in a range of technologies including HTML, CSS, JavaScript, Node.js, React, SASS, Express, Python, Flask, Django, MongoDB, MySQL, PostgreSQL, Materialize, Bootstrap, NPM, and Git.
-Throughout my journey, I have successfully completed more than 20 web projects independently and contributed to the success of over 5 team projects. My passion for technology and web development drives me to constantly expand my knowledge and stay up to date with the latest advancements in the field.
+Throughout my journey, I have completed more than 20 web projects independently and contributed to the success of over 5 team projects. My passion for technology and web development drives me to constantly expand my knowledge and stay up to date with the latest advancements in the field.
 I am now seeking an entry-level position where I can apply my coding and problem-solving skills, along with my ability to quickly grasp new concepts. I am committed to continuous learning and strive to unleash my full potential in a dynamic work environment.
 I am well-versed in Agile methodologies and have experience working within technology teams.
 
@@ -20,7 +20,7 @@ I am well-versed in Agile methodologies and have experience working within techn
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/steff880)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/steff-yordanov-web-dev//)  
 
-### 📫 You can also email me on: stefan.d.yordanov@gmail.com
+### 📫 You can also email me at: stefan.d.yordanov@gmail.com
 
 <!-- ## Examples of Work
 
